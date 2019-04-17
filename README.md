@@ -25,6 +25,6 @@ ___
 19. [Lambda Calculus - Evaluating Expressions #3](https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression/problem) (solution)
 20. [Lambda Calculus - Evaluating Expressions #4](https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression-1/problem) (solution)
 21. [Lambda Calculus - Evaluating Expressions #5](https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression-2/problem) (solution)
-22. [Functions or Not?](https://www.hackerrank.com/challenges/functions-or-not/problem)
+22. [Functions or Not?](https://www.hackerrank.com/challenges/functions-or-not/problem) (solution)
 23. [Compute the Perimeter of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem) (solution)
 24. [Compute the Area of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem) (solution)
