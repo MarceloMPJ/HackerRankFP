@@ -11,3 +11,4 @@ ___
 5. [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array/problem) ([solution](https://github.com/MarceloMPJ/HackerRankFP/blob/master/introduction/filter_array.ex))
 6. [Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem) ([solution](https://github.com/MarceloMPJ/HackerRankFP/blob/master/introduction/filter_positions_in_a_list.ex))
 7. [Array Of N Elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements/problem) ([solution](https://github.com/MarceloMPJ/HackerRankFP/blob/master/introduction/array_of_n_elements.ex))
+8. [Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem) ([solution](https://github.com/MarceloMPJ/HackerRankFP/blob/master/introduction/reverse_a_list.ex))
