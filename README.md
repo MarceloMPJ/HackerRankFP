@@ -15,7 +15,7 @@ ___
 9. [List Length](https://www.hackerrank.com/challenges/fp-list-length/problem) ([solution](https://github.com/MarceloMPJ/HackerRankFP/blob/master/introduction/list_length.ex))
 10. [Update List](https://www.hackerrank.com/challenges/fp-update-list/problem) ([solution](https://github.com/MarceloMPJ/HackerRankFP/blob/master/introduction/update_list.ex))
 11. [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex/problem) ([solution](https://github.com/MarceloMPJ/HackerRankFP/blob/master/introduction/evaluating_e_x.ex))
-12. [Area Under Curves and Volume of Revolving a Curve](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem) (solution)
+12. [Area Under Curves and Volume of Revolving a Curve](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem) ([solution](https://github.com/MarceloMPJ/HackerRankFP/blob/master/introduction/area_and_volume.ex))
 13. [Lambda Calculus - Reductions #1](https://www.hackerrank.com/challenges/lambda-calculus-reductions-1/problem) (solution)
 14. [Lambda Calculus - Reductions #2](https://www.hackerrank.com/challenges/lambda-calculus-reductions-2/problem) (solution)
 15. [Lambda Calculus - Reductions #3](https://www.hackerrank.com/challenges/lambda-calculus-reductions-3/problem) (solution)
