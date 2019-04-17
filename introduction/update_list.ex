@@ -12,8 +12,12 @@ defmodule Solution do
       x -> build_list(list ++ [x])
     end
   end
+
+  def solve do
+    build_list()
+    |> Enum.map(&(abs(&1)))
+    |> Enum.each(&(IO.puts(&1)))
+  end
 end
 
-Solution.build_list()
-|> Enum.map(&(abs(&1)))
-|> Enum.each(&(IO.puts(&1)))
+Solution.solve()
