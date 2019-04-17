@@ -1,5 +1,5 @@
 # HackerRankFP
-Solutions to problems of the Hacker Rank using Elixir
+My solutions to problems of the Hacker Rank using Elixir!
 
 ___
 
