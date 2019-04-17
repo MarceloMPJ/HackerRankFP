@@ -13,7 +13,7 @@ ___
 7. [Array Of N Elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements/problem) ([solution](https://github.com/MarceloMPJ/HackerRankFP/blob/master/introduction/array_of_n_elements.ex))
 8. [Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem) ([solution](https://github.com/MarceloMPJ/HackerRankFP/blob/master/introduction/reverse_a_list.ex))
 9. [List Length](https://www.hackerrank.com/challenges/fp-list-length/problem) ([solution](https://github.com/MarceloMPJ/HackerRankFP/blob/master/introduction/list_length.ex))
-10. [Update List](https://www.hackerrank.com/challenges/fp-update-list/problem) (solution)
+10. [Update List](https://www.hackerrank.com/challenges/fp-update-list/problem) ([solution](https://github.com/MarceloMPJ/HackerRankFP/blob/master/introduction/update_list.ex))
 11. [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex/problem) (solution)
 12. [Area Under Curves and Volume of Revolving a Curve](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem) (solution)
 13. [Lambda Calculus - Reductions #1](https://www.hackerrank.com/challenges/lambda-calculus-reductions-1/problem) (solution)
